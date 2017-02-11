@@ -164,9 +164,15 @@ hr.small {
 }
 
 .header h1 {
-  margin-top: 25%;
+  margin-top: -19%;
 }
 
+#gonnaBeOnTheBottom {
+    position: absolute;
+    bottom:0;
+    transform: translateX(50%);
+    text-align: center;
+}
 /* About */
 
 .about {
